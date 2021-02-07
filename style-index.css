@@ -1,0 +1,105 @@
+.sait{
+    background-color: azure;
+    height: 100%;
+}
+.shapka{
+  
+}
+
+body{
+    
+}
+novost1{
+    height: 100px;
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    padding: 10px;
+    border-radius: 20px;
+}
+.dgfed{
+    padding: 10px;;
+} 
+img{
+    padding-right: 20px;
+}
+.content{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    border-radius: 20px;
+    height: 2000px
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+   font-family: 'Kufam', cursive;
+    padding: 0.5%;
+}
+a { 
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+.text{
+    text-align: left;
+    font-family: 'Kufam', cursive;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+    padding: 0.5%;
+	text-shadow: 
+		-0   -2px 0   #739BD6,
+		 0   -2px 0   #739BD6,
+		-0    2px 0   #739BD6,
+		 0    2px 0   #739BD6,
+		-2px -0   0   #739BD6,
+		 2px -0   0   #739BD6,
+		-2px  0   0   #739BD6,
+		 2px  0   0   #739BD6,
+		-1px -2px 0   #739BD6,
+		 1px -2px 0   #739BD6,
+		-1px  2px 0   #739BD6,
+		 1px  2px 0   #739BD6,
+		-2px -1px 0   #739BD6,
+		 2px -1px 0   #739BD6,
+		-2px  1px 0   #739BD6,
+		 2px  1px 0   #739BD6,
+		-2px -2px 0   #739BD6,
+		 2px -2px 0   #739BD6,
+		-2px  2px 0   #739BD6,
+		 2px  2px 0   #739BD6,
+		-2px -2px 0   #739BD6,
+		 2px -2px 0   #739BD6,
+		-2px  2px 0   #739BD6,
+		 2px  2px 0   #739BD6;
+		 2px  2px 0   #739BD6;
+    
+}
+.novost12{
+    border-style: none;
+    border: 5px solid Turquoise;
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    height: 300px;
+    border-radius: 20px;
+    width: 25%
+}
+.novost13{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: none;
+    border: 5px solid Turquoise;
+    background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+    height: 300px;
+    border-radius: 20px;
+    width: 25%
+        
+       
+}
+.gavno{
+    background-color: transparent;
+    height: 100%;
+    width: 20px;
+}
+.title{
+    padding-top: 1900px;
+    font-family: 'Kufam', cursive;
+}    
+    
